@@ -1,15 +1,9 @@
-# manag.-accounts-with-group-policy
-
-
-
-
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Group Policy and Managing Account Passwords/Lockouts</h1>
+This tutorial shows and explains how to  lock and unlock accounts within the DC-1 and Client 1 Virtual Machines created in Azure, and how to set account lockout thresholds and enable and disable accounts within Group Policy.<br />
 
 
 <h2>Video Demonstration</h2>
