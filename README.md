@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/N7VUCbt.png"/>
 </p>
 
 <h1>Group Policy and Managing Account Passwords/Lockouts</h1>
