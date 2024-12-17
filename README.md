@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/N7VUCbt.png"/>
 </p>
 
-<h1>Group Policy and Managing Account Passwords/Lockouts</h1>
+<h1>Group Policy, Managing Accounts, Passwords and Lockouts</h1>
 This tutorial shows and explains how to  lock and unlock accounts within the DC-1 and Client 1 Virtual Machines created in Azure, and how to set account lockout thresholds and enable and disable accounts within Group Policy.<br />
 
 
